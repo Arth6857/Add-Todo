@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a simple yet functional Add Todos web application developed to demonstrate my front-end development skills. The app allows users to add, delete, and manage their daily tasks efficiently. It features a clean and responsive UI built using HTML, CSS, and React, ensuring a seamless experience across devices. The goal of this project was to implement fundamental concepts such as event handling, state management, and DOM manipulation in a real-world scenario. This project also highlights my ability to write organized and readable code, and can be further expanded with features like data persistence, filtering tasks, and deadline
